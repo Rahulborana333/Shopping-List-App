@@ -14,7 +14,7 @@ Requirement
 
 how to Run
 
-Close this repository.
+Clone this repository.
 Navigate to the folder.
 Run Python script.
 
